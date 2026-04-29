@@ -255,6 +255,8 @@ nav.scrolled {
   border: 1.5px solid rgba(240,242,245,.25);
 }
 .btn-outline:hover { border-color: var(--gold); color: var(--gold); }
+.btn-sm { padding: .55rem 1.2rem; font-size: .82rem; }
+.btn-full { width: 100%; justify-content: center; }
 
 /* ── SECTIONS COMMUNES ─────────────────────────── */
 section { padding: 6rem 2rem; }
